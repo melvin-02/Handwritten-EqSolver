@@ -11,4 +11,5 @@ The picture should be as follows:
 ### Math Eqs is the notebook that contains the implementation  
 
 ![Symbol Detection](https://github.com/melvin-02/Handwritten-EqSolver/blob/master/symbol%20detection.png?raw=true "Symbol Detection")  
+  
 ![Symbol Classification](https://github.com/melvin-02/Handwritten-EqSolver/blob/master/symbol%20classification.png?raw=true "Symbol Classification")
