@@ -10,4 +10,6 @@ The picture should be as follows:
 ### Numbers_CNN is the notebook to train a CNN model to recognise the images  
 ### Math Eqs is the notebook that contains the implementation  
 
-
+![Symbol Detection](https://github.com/melvin-02/Handwritten-EqSolver/blob/master/symbol%20detection.png?raw=true "Symbol Detection")  
+  
+![Symbol Classification](https://github.com/melvin-02/Handwritten-EqSolver/blob/master/symbol%20classification.png?raw=true "Symbol Classification")
